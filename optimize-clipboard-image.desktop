@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Optimize Clipboard Image
+Comment=Optimize the image in the clipboard
+Exec=/usr/local/bin/optimize-clipboard-image.sh
+Icon=image
+Terminal=false
+Categories=Graphics;
